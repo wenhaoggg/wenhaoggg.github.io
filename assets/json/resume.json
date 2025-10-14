@@ -3,7 +3,7 @@
     "name": "Wenhao Gao",
     "label": "Phd Student",
     "image": "",
-    "email": "wenhao.gao@outlook.de",
+    "email": "wenhao.gao@outlook.com",
     "url": "https://wenhaoggg.github.io/",
     "summary": "Phd student working on computational neuropathology",
     "location": {
@@ -23,13 +23,13 @@
     {
       "institution": "University of Copenhagen, Copenhagen, Denmark",
       "location": "Copenhagen, Denmark",
-      "url": "https://www.ku.dk/en",
+      "url": "https://www.ku.dk/studies/masters/bioinformatics",
       "area": "Bioinformatics",
       "studyType": "Master",
       "startDate": "2022",
       "endDate": "2024",
       "score": "12",
-      "courses": ["Machine learning"]
+      "courses": ["Machine Learning A", "Machine Learning B", "Biological Sequence Analysis", "Structural Bioinformatics"]
     }
   ],
   "languages": [
