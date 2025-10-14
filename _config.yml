@@ -196,6 +196,8 @@ exclude:
   - _pages/teaching.md
   - _pages/publications.md
   - _pages/repositories.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
   - _bibliography/
   - _books/
 keep_files:
