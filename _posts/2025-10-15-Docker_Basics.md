@@ -6,8 +6,6 @@ description: Docker tips
 tags: Docker
 categories: Data-Science
 ---
-
-
 List all images
 
 ```
