@@ -2,7 +2,8 @@
 layout: post
 title: Docker Basics
 date: 2025-10-15 02:56
-description: Metrics for my research
+description: Docker tips
 tags: Docker
 categories: Data-Science
 ---
+docker ps -a
