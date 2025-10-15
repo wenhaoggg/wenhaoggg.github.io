@@ -34,7 +34,7 @@ ninja.data = [{
         
           title: "Docker Basics",
         
-        description: "Metrics for my research",
+        description: "Docker tips",
         section: "Posts",
         handler: () => {
           
