@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-docker-basics",
+        
+          title: "Docker Basics",
+        
+        description: "Docker tips",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Docker_Basics/";
+          
+        },
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
